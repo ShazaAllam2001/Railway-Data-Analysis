@@ -49,8 +49,8 @@ Group Code: ALX2_DAT2_G3
 
 Team Members:
 1. Shaza Ahmed
-2. Mariam Mahmoud 
-3. Jumana Hossam
+2. Mariam Mahmoud Ibrahim Hafez Salem
+3. Jumana Hossam Zakarya
 4. Menntullah Omar
 5. Meram George
 
