@@ -43,12 +43,12 @@ This Power BI project provides an in-depth analysis of UK train railway data, fo
 - Implement predictive modeling for train delays.
 - Improve geographical analysis with interactive maps.
 
+___
+### Job Profile: Data Analytics (Power BI)
+### Group Code: ALX2_DAT2_G3
 
-Job Profile: Data Analytics (Power BI)
-Group Code: ALX2_DAT2_G3
-
-Team Members:
-1. Shaza Ahmed
+### Team Members:
+1. Shaza Ahmed Salaheldin
 2. Mariam Mahmoud Ibrahim Hafez Salem
 3. Joumana HossamEldin Zakarya
 4. Mennatullah Omar
